@@ -3,7 +3,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 import asyncio
 
-TOKEN = "ТУТ_ТВОЙ_BOT_TOKEN"
+TOKEN = "8445444619:AAFdR4jF1IQJzEFIL_DsJ-JTxT9nwkwwC58"
 ADMIN_CHAT_ID = -1003120877184  # заміни на свій чат адміністраторів
 
 bot = Bot(token=TOKEN)
